@@ -1,5 +1,8 @@
 _repo: A-Book-of-Nimble-Beasts-Bunny-Rabbit-Squirrel-Toad-and-Those-Sort-of-People_55097
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55097-h/images/cover.jpg
 creator:
   author:
     agent_name: English, Douglas
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '25129'
     url: http://www.gutenberg.org/2009/agents/25129
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55097#A-Book-of-Nimble-Beasts-Bunny-Rabbit-Squirrel-Toad-and-Those-Sort-of-People
 gutenberg_issued: '2017-07-13'
 gutenberg_type: Text
 identifiers:
